@@ -9,3 +9,9 @@ watched second and third video and messed around with slots and views to get a b
 
 12-09-2025 14:25
 added dev branch on github to push code to due to running into issues pushing it to main
+
+17-09-2025
+videos bekeken over hoe tailwind met laravel werkt. eerste 7 videos afgerond
+
+19-09-2025
+video over migrations en eloquents en rond mee gespeelt, video over tailwind op nieuw bekeken en tailwind videos gezien en beetje mee rond gespeelt
