@@ -15,3 +15,7 @@ videos bekeken over hoe tailwind met laravel werkt. eerste 7 videos afgerond
 
 19-09-2025
 video over migrations en eloquents en rond mee gespeelt, video over tailwind op nieuw bekeken en tailwind videos gezien en beetje mee rond gespeelt
+
+01-10-2025 09:15
+vergeten commits te maken voor 24 en 26 september
+videos over eloquenten gezien een mee gespeelt, snap nog niet al te goed, moet code nog naar github linken, eerste week vergeten te doen, ga dat deze les doen
