@@ -18,4 +18,4 @@ video over migrations en eloquents en rond mee gespeelt, video over tailwind op 
 
 01-10-2025 09:15
 vergeten commits te maken voor 24 en 26 september
-videos over eloquenten gezien een mee gespeelt, snap nog niet al te goed, moet code nog naar github linken, eerste week vergeten te doen, ga dat deze les doen
+videos over eloquenten gezien een mee gespeelt, snap nog niet al te goed, moet code nog naar github pushen, eerste week vergeten te doen, ga dat deze les doen
