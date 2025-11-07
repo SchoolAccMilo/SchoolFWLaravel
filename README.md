@@ -12,4 +12,4 @@ Laravel
 
 01-10-2025 09:15 vergeten commits te maken voor 24 en 26 september videos over eloquenten gezien een mee gespeelt, snap nog niet al te goed, moet code nog naar github pushen, eerste week vergeten te doen, ga dat deze les doen
 
-07-11/2025 vergeten te updaten en commits te maken, tijdens de vakantie erg veel gewerkt en afgekregen tot les 21 gekomen en in de afgelopen lessen les 22 en 23 gevolgt
+
