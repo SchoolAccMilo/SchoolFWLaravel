@@ -1,6 +1,5 @@
-<x-navbar>
-    <h1>home!</h1>
-</x-navbar>
-
-
-
+<x-layout>
+    <x-slot:heading>
+        Home Page
+    </x-slot:heading>
+</x-layout>
